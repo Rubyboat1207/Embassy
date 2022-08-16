@@ -1,0 +1,7 @@
+name: Embassy
+version: '${project.version}'
+main: nebulous.embassy.Main
+api-version: 1.19
+commands:
+  embassy:
+    description: "Embassy"
